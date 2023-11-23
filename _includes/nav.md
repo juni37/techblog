@@ -4,7 +4,11 @@
 
 ***
 
-* Topics
+* Tech Topics
 * [Cybersecurity](https://blog.paulkim.me/cybersecurity/)
 * [A.I.](https://blog.paulkim.me/artificial-intelligence/)
 * [Current Issue](https://blog.paulkim.me/current-issue)
+
+***
+
+* 
