@@ -1,0 +1,12 @@
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: cs50/jekyll-theme-cs50
+
+title: Paul's Tech Blog
+
+cs50:
+  alert: warning dismissible
+  description: Welcome to Paul's Blog! I write tech-savvy stuff.
