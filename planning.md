@@ -1,4 +1,4 @@
-# Planning.md
+# What am I going to post next?
 ## Cybersecurity
 * [2019 Resilient Systems Report V15](https://www.ibm.com/downloads/cas/GAVGOVNV)
 * [Email Obfuscation](https://spencermortensen.com/articles/email-obfuscation/?utm_source=tldrnewsletter)
@@ -13,3 +13,4 @@
 
 ## General Technology
 * [Zoom Fatigue is Real](https://spectrum.ieee.org/zoom-fatigue)
+* [Naver D2](https://d2.naver.com/helloworld/59361)

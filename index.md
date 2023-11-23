@@ -6,3 +6,6 @@ Welcome to my tech blog, where I explore the latest trends and innovations in te
 
 # Page is now..
 ![Updating :)](static/updating_now.jpg)
+
+## Check out what I am going to upload next!
+> Visit [here](planning) to see what I am going to post next!
