@@ -1,1 +1,0 @@
-Welcome to my Techblog! This website is currently in construction! 🎉 Meantime, visit [my website](https://paulkim.me/?utm_source=techblog&utm_content=alert) and [my resume!](https://resume.paulkim.me/?utm_source=techblog&utm_content=alert)
