@@ -1,0 +1,2 @@
+# Improper Access Statement
+The Cloudflare Access system itself, and the systems, data, and other resources that require Cloudflare Access authentication for access, are only for legitimate authorized users. Use may be monitored, and improper use of the login system or those resources may result in disciplinary action and civil and criminal charges.

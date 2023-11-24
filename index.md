@@ -5,10 +5,7 @@ Welcome to my tech blog, where I explore the latest trends and innovations in te
 > ~~What is new? [Check out this new post!](#)~~
 
 # Page is now..
-![Updating :)](static/updating_now.jpg)
-
-## Check out what I am going to upload next!
-> Visit [here](planning) to see what I am going to post next!
+![Updating :)](assets/images/updating_now.jpg)
 
 ## Newsletter Signup
 > Powered by [Twillio Sendgrid](https://sendgrid.com/).
