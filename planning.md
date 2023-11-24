@@ -14,3 +14,7 @@
 ## General Technology
 * [Zoom Fatigue is Real](https://spectrum.ieee.org/zoom-fatigue)
 * [Naver D2](https://d2.naver.com/helloworld/59361)
+
+## Math (?)
+* [Euler's Equation](https://blog.ardan.kr/eulers-equation/)
+* [Game Theory](https://blog.ardan.kr/law-of-large-numbers/)
