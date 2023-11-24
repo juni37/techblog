@@ -24,4 +24,4 @@ gem install jekyll bundler
 ```
 bundle exec jekyll serve
 ```
-- Visit [http://localhost:4000] for your website.
+- Visit [http://localhost:4000](http://localhost:4000) for your website.
