@@ -12,7 +12,7 @@ This website is using [Netlify](https://netlify.com) to publish static website.
 This website is using [Cloudflare](https://cloudflare.com)'s DNS service and Internet Native Zero-Trust Access (ZTNA).   
 This website is using [Twillio Sendgrid](https://sendgrid.com)'s email service for newsletters.
 
-## How to host this project at your localhost?
+## Installations
 - Install Ruby (ruby -v) with version 2.5.0 or higher
 - Install RubyGems (gem -v)
 - Install GCC and Make (gcc -v and make -v)
