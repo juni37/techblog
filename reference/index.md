@@ -20,6 +20,7 @@
 ## General Technology
 * [Zoom Fatigue is Real](https://spectrum.ieee.org/zoom-fatigue)
 * [Naver D2](https://d2.naver.com/helloworld/59361)
+* [안전한 라우팅을 위한 RPKI 기초 (한국인터넷진흥원)]({{ "/reference/(교재)안전한라우팅을위한RPKI기초.pdf" | relative_url }})
 
 ## Math (?)
 * [Euler's Equation](https://blog.ardan.kr/eulers-equation/)
