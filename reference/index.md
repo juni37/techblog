@@ -18,9 +18,10 @@
 * [WorldCoin - Sam's second project? (Secondary Source) 🇰🇷](https://alook.so/posts/njtwyy5)
 
 ## General Technology
-* [Zoom Fatigue is Real](https://spectrum.ieee.org/zoom-fatigue)
+* [Zoom Fatigue is Real](https://spectrum.ieee.org/zoom-fatigue) <-> Article Reviews maybe
 * [Naver D2](https://d2.naver.com/helloworld/59361)
 * [안전한 라우팅을 위한 RPKI 기초 (한국인터넷진흥원)]({{ "/reference/(교재)안전한라우팅을위한RPKI기초.pdf" | relative_url }})
+* [What is a good API?](https://twitter.com/jimmykoppel/status/1728629912041660738?s=46) Twitter <-> Article Reviews maybe
 
 ## Math (?)
 * [Euler's Equation](https://blog.ardan.kr/eulers-equation/)
