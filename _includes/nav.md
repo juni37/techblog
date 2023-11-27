@@ -5,20 +5,20 @@
 ***
 
 * Tech Topics
-* [Cybersecurity](https://blog.paulkim.me/cybersecurity/)
-* [Artificial Intelligence](https://blog.paulkim.me/artificial-intelligence/)
+* [Cybersecurity]({{ "/cybersecurity" | relative_url }})
+* [Artificial Intelligence]({{ "/artificial-intelligence" | relative_url }})
 * Programming
-* [Current Issue](https://blog.paulkim.me/current_issue)
+* [Current Issue]({{ "/current_issue" | relative_url }})
 * Article Reviews
-* [Others](https://blog.paulkim.me/others)
+* [Others]({{ "/others" | relative_url }})
 
 ***
 
 * Not-really-tech topics
 * #justmylife
-* [Reference](https://blog.paulkim.me/reference)
+* [Reference]({{ "/reference" | relative_url }})
 
 ***
 
-* [Newsletter Signup](https://blog.paulkim.me/index/#newsletter-signup)
-* [**LICENSE**](license)
+* [Newsletter Signup]({{ "/index/#newsletter-signup" | relative_url }})
+* [**LICENSE**]({{ "acknowledgements" | relative_url }})
