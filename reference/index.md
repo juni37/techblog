@@ -22,7 +22,13 @@
 * [Naver D2](https://d2.naver.com/helloworld/59361)
 * [안전한 라우팅을 위한 RPKI 기초 (한국인터넷진흥원)]({{ "/reference/(교재)안전한라우팅을위한RPKI기초.pdf" | relative_url }})
 * [What is a good API?](https://twitter.com/jimmykoppel/status/1728629912041660738?s=46) Twitter <-> Article Reviews maybe
+* [Difference between Machine Learning and Deep Learning]({{ "/reference/머신러닝 & 딥러닝 차이, 3분 요약.pdf" | relative_url }})
 
 ## Math (?)
 * [Euler's Equation](https://blog.ardan.kr/eulers-equation/)
 * [Game Theory](https://blog.ardan.kr/law-of-large-numbers/)
+
+## 전문연
+* [채용공고 Example]({{ "/reference/전문연/20220125_전문연구요원 채용공고_기반기술팀.pdf" | relative_url }})
+* [병역홍보자료]({{ "/reference/전문연/국외체재자를 위한 병역정보 영문 홍보 자료.pdf" | relative_url }})
+* [전문연 기본자료]({{ "/reference/전문연/전문연.pdf" | relative_url }})
